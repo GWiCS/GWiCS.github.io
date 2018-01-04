@@ -1,0 +1,73 @@
+/*!
+ * Start Bootstrap - Agency v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/agency)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
+ */
+body {
+  overflow-x: hidden;
+  background-color: white;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+}
+
+p {
+  line-height: 1.75; 
+}
+
+section {
+  padding: 50px 0; 
+}
+#services {
+  padding-top: 150px; 
+} 
+section h2.section-heading {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: black; 
+}
+section h3.section-subheading {
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 75px;
+  text-transform: none;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+}
+
+.service-heading {
+  margin: 15px 0;
+  text-transform: none; 
+  color: black;
+}
+
+.team-member {
+  margin-bottom: 50px;
+  text-align: center; 
+}
+.team-member img {
+  width: 195px;
+  height: 195px;
+  border: 2px solid #000; 
+}
+.team-member h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none; 
+  color: black;
+}
+.team-member p {
+  margin-top: 0; 
+  margin-bottom: 5px;
+}
+
+#team .fa {
+  color: #ca0c16;
+}
+
+#services .fa-circle {
+  color: #ca0c16 !important;
+}
+
+#services .fa-inverse {
+  -webkit-text-stroke: 1.5px #ca0c16;
+}
+
