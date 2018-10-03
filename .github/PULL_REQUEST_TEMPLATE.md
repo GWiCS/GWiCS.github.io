@@ -1,4 +1,4 @@
-## GWiCS Pull request Instructions:
+## **<span style="color: #f26400">GWiCS Pull request Instructions: </span>**
 
 #### Guidelines to make PRs consistent:
 
@@ -9,6 +9,8 @@
 * Make commits in logical intervals
 
 #### Once you're done with your changes:
+* Push your code to your forked remote
+* From GitHub, create a pull request to merge into branch in the original repo
 * Add a description of the changes you made:
   * What does this implement or fix?
   * What was the problem and how did you fix it?
@@ -17,10 +19,11 @@
 
 
 #### Checklist
+When you're done, make sure:
 - [ ] All code compiles correctly
 - [ ] No merge conflicts
 - [ ] All tests passing
 - [ ] Added changes to the README / documentation, if needed
 - [ ] Added detailed description of modifications
 
-Thank you for your contribution!
+#### <span style="color: #f26400">Thank you for contributing!</span>
