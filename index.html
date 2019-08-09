@@ -19,7 +19,7 @@
     <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
     <!-- Custom styles for this template -->
     <link href="css/grayscale.css" rel="stylesheet">
-
+    <link href="css/slider.css" rel="stylesheet">
   </head>
 
   <body id="page-top">
@@ -45,26 +45,38 @@
               <a class="nav-link js-scroll-trigger" href="resources.html">Resources</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="contact.html">Contact</a>
+              <a class="nav-link js-scroll-trigger" href="join.html">Join Us!</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <!-- Intro Header -->
-    <header class="masthead" style="height:630px;">
-      <div class="intro-body">
-        <div class="container">
-          <div class="row">
-        </div>
+    <div class="slideshow-container">
+
+      <!-- Full-width images with number and caption text -->
+      <div class="mySlides">
+        <img src="img/slides/slidee.png" style="width:100%">
       </div>
-    </header>
+
+      <div class="mySlides">
+        <img src="img/slides/slide2.png" style="width:100%">
+      </div>
+
+      <div class="mySlides">
+        <img src="img/slides/a.png" style="width:100%">
+      </div>
+
+      <!-- Next and previous buttons -->
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
 
     <!-- Footer -->
     <footer class="page-footer">
       <div class="container text-center">
-        <p>Copyright &copy; GWiCS, University of Guelph 2018</p>
+        <p>Copyright &copy; GWiCS, University of Guelph 2019</p>
+        <p>
       </div>
     </footer>
 
@@ -75,6 +87,7 @@
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
     <!-- Custom scripts for this template -->
     <script src="js/grayscale.min.js"></script>
+    <script src="js/slider.js"></script>
 
   </body>
 

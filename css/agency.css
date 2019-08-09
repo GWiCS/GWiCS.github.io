@@ -79,3 +79,7 @@ section h2.section-subheading {
   -webkit-text-stroke: 1.5px #ca0c16;
 }
 
+#navbarResponsive {
+  margin-right: -61px;
+}
+

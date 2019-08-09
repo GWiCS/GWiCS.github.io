@@ -124,7 +124,7 @@ a:focus, a:hover {
     padding: 200px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) bottom center no-repeat #000;
+    /*background: url(../img/logo.png) bottom center no-repeat #000;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
