@@ -3,6 +3,14 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
+.bluelink {
+  color: #007592
+}
+
+.bluelink:hover {
+  color: #0cb94e
+}
+
 body {
   overflow-x: hidden;
   background-color: white;
